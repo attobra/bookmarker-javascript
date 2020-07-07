@@ -1,0 +1,18 @@
+.jumbotron {
+  text-align: center;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+h3{
+  margin-left: 10px;
+}
+.card{
+  margin: 10px;
+}
+
+.btn{
+  margin: 5px;
+}
